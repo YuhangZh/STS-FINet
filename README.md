@@ -11,7 +11,9 @@ torchvision == 0.16.2+cu121
 
 einops == 0.8.0
 
-tqdm == 4.64.1
+timm == 1.0.3
+
+fonttools == 4.47.0
 
 # Checkpoints
 For readers to easily evaluate the accuracy, we provide the trained weights.
