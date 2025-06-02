@@ -1,17 +1,10 @@
 # STS-FINet
 Pytorch codes of 'Cross-Difference Semantic Consistency Network for Semantic Change Detection' [paper](https://ieeexplore.ieee.org/document/10979855)
+
 # Checkpoints
 For readers to easily evaluate the accuracy, we provide the trained weights.
 
-SECOND:  
-1.Baidu (pswd: )
-
-LandsatSCD:  
-1.Baidu (pswd: )
-
-
-WUSU:  
-1.Baidu (pswd: )
+Baidu [Download Link](https://pan.baidu.com/s/1TPbQCBdjtKvbHyV_UxYgeg?pwd=49qq) (pswd: 49qq)
 
 # Data preparation
 1.SECOND: [Download Link](https://captain-whu.github.io/SCD/)
@@ -20,6 +13,9 @@ WUSU:
 
 3.WUSU
 
-1)
+Since the WUSU dataset could not be used directly, we resampled and cropped it.
 
-2) [Download Link](https://pan.baidu.com/s/106AkV81LZkl7ePszNOAhbA?pwd=xwtw)(psswd xwtw)
+1) Original data address: [Download Link](https://rsidea.whu.edu.cn/resource_wusu_sharing.htm)
+
+2) Modified dataset address: [Download Link](https://pan.baidu.com/s/106AkV81LZkl7ePszNOAhbA?pwd=xwtw)(psswd xwtw)
+
