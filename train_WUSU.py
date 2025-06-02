@@ -25,7 +25,7 @@ args = {
     'train_batch_size': 32,
     'val_batch_size': 64,
     'lr': 0.1,
-    'epochs': 100,
+    'epochs': 50,
     'gpu': True,
     'gpu_id': '0',
     'lr_decay_power': 2.0,
