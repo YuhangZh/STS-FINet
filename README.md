@@ -1,6 +1,18 @@
 # STS-FINet
 Pytorch codes of 'Cross-Difference Semantic Consistency Network for Semantic Change Detection' [paper](https://ieeexplore.ieee.org/document/10979855)
 
+# Requirements
+
+python == 3.10.8
+
+torch == 2.1.2+cu121
+
+torchvision == 0.16.2+cu121
+
+einops == 0.8.0
+
+tqdm == 4.64.1
+
 # Checkpoints
 For readers to easily evaluate the accuracy, we provide the trained weights.
 
