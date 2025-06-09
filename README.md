@@ -1,5 +1,5 @@
 # STS-FINet
-Pytorch codes of 'Cross-Difference Semantic Consistency Network for Semantic Change Detection' [paper](https://ieeexplore.ieee.org/document/10979855)
+Pytorch codes of 'Spatial-Temporal Semantic Feature Interaction Network for Semantic Change Detection in Remote Sensing Images' [paper](https://ieeexplore.ieee.org/document/10979855)
 
 # Requirements
 
